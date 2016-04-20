@@ -1,0 +1,67 @@
+{
+
+    "name": "linkIt",
+
+    "title": "LinkIt jQuery plugin",
+
+    "description": "simple plugin to convert any element to a link.",
+
+    "keywords": [
+
+        "link",
+        
+        "html",
+
+        "content"
+
+    ],
+
+    "version": "0.1.0",
+
+    "author": {
+
+        "name": "Iver Gdornk",
+
+        "url": "https://gdornk_hut.com"
+
+    },
+
+    "maintainers": [
+
+        {
+
+            "name": "Iver Gdornk",
+
+            "email": "gdornk@gmail.com",
+
+            "url": "http://gdornk-hut.com"
+
+        }
+
+    ],
+
+    "licenses": [
+
+        {
+
+            "type": "MIT",
+
+            "url": "https://github.com/IvesIverson/jQuery.linkIt/LICENSE.txt"
+
+        }
+
+    ],
+
+
+    "homepage": "https://github.com/IvesIverson/jQuery.linkIt",
+
+    "docs": "https://github.com/IvesIverson/jQuery.linkIt",
+
+    "dependencies": {
+
+        "jquery": ">=1.9"
+
+    }
+
+}
+
